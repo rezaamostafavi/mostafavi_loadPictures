@@ -5,31 +5,31 @@
     android:layout_height="match_parent"
     tools:context="com.mostafavi.imageloader.MainActivity">
 
-    <!-- Loading View -->
-    <ProgressBar
-        android:id="@+id/loadingView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:indeterminate="true" />
-
-    <!-- Content View -->
-    <android.support.v4.widget.SwipeRefreshLayout
-        android:id="@+id/contentView"
+    <!--&lt;!&ndash; Loading View &ndash;&gt;-->
+    <!--<ProgressBar-->
+        <!--android:id="@+id/loadingView"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:indeterminate="true" />-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent" />
+    <!-- Content View -->
+    <!--<android.support.v4.widget.SwipeRefreshLayout-->
+    <!--android:id="@+id/contentView"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
 
-        <android.support.v7.widget.RecyclerView
-            android:id="@+id/recyclerView"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+    <!---->
 
-    </android.support.v4.widget.SwipeRefreshLayout>
+    <!--</android.support.v4.widget.SwipeRefreshLayout>-->
 
 
-    <!-- Error view -->
-    <TextView
-        android:id="@+id/errorView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <!--&lt;!&ndash; Error view &ndash;&gt;-->
+    <!--<TextView-->
+    <!--android:id="@+id/errorView"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content" />-->
 </FrameLayout>

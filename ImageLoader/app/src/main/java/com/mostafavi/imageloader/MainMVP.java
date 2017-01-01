@@ -10,14 +10,9 @@ import java.util.List;
 /**
  * Created by admin on 1/1/17.
  */
-public class MainMVP implements MvpView {
+public interface MainMVP extends MvpView {
 
-    interface MainView extends MvpLceView<List<Bitmap>> {
+    public void success(MainActivity.Holder holder, Bitmap bitmap);
 
-    }
-
-    public interface MvpPresenter<MainMVP> {
-
-        public void loadPictures(String[] urls, final boolean pullToRefresh);
-    }
+    public void failure(MainActivity.Holder holder);
 }
