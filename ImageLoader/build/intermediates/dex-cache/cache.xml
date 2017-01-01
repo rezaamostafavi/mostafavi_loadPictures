@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/mvp/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d5f68a8fdd8283ea42b20259ae4adad9cbe5e94">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-mvp-2.0.1_a5b93349904a50d2bd5c2ecabee224bf80520151.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_655c916751b36afc69029bc3a4a1c609887a246b.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_9e9802ca20ddbe589ff39d832da4c038afd003d7.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/exploded-aar/com.hannesdorfmann.mosby/viewstate/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66898369cdbdcd732d7b0143aa12010cf4814005">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/com.hannesdorfmann.mosby-viewstate-2.0.1_45aea6d57d1718d30a40d9151c84d5726cf1e8b0.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_5a2dd8b66f1cb7a95c553aa00de66059b6173163.jar" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann.mosby/mvp-common/2.0.1/d75c9c5577143f3cf3fd63f61526a551f910b56f/mvp-common-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d75c9c5577143f3cf3fd63f61526a551f910b56f">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/mvp-common-2.0.1_f4321334abf3f9d1355112f0ab59b058fea7292b.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/admin/Documents/Mostafavi/Projects/ImageLoader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_dc5acd34ea951f8d7053e1d3a39ddddc1e038310.jar" />
+    </item>
+
+</items>
