@@ -12,7 +12,7 @@ public class PicturePresenter extends MvpBasePresenter<MainMVP.MainView> {
     public void loadCountries(String[] urls, final boolean pullToRefresh) {
 
         for (String url : urls) {
-            
+
 
         }
     }
